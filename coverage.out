@@ -1,0 +1,6 @@
+mode: set
+github.com/panbhatt/ginbooklearn/main.go:12.13,17.2 2 0
+github.com/panbhatt/ginbooklearn/main.go:19.32,45.2 19 1
+github.com/panbhatt/ginbooklearn/main.go:52.35,54.2 1 0
+github.com/panbhatt/ginbooklearn/main.go:56.34,60.2 1 1
+github.com/panbhatt/ginbooklearn/main.go:62.38,70.2 1 0
